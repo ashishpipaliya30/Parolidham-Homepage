@@ -83,7 +83,7 @@ button {
     padding: 10PX 30px;
     background-color: rgb(255, 191, 108);
     border: 1px solid black;
-    border-radius: 20px;
+    border-radius: 23px;
     box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.5);
     font-size: 20px;
     font-family: sans-serif;
@@ -94,15 +94,17 @@ button:hover {
 }
 
 .maa {
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
     margin-top: 123vh;
+    background: linear-gradient(to right, red, rgb(255, 217, 0), red);
 }
 
 .heading {
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     margin-top: -4vh;
+    background: linear-gradient(to right, red, rgb(255, 217, 0), red);
 }
 
 .contact {
