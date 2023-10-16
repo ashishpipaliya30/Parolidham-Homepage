@@ -54,7 +54,7 @@ body {
 }
 
 .container {
-    background-color: rgba(255, 231, 157, 0.8);
+    background-color: rgba(255, 231, 157, 0.6);
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
     padding: 20px 20px;
     margin: 20px 20px;
@@ -81,7 +81,7 @@ body {
 
 button {
     padding: 10PX 30px;
-    background-color: rgb(255, 191, 108);
+    background-color: rgb(249, 175, 79);
     border: 1px solid black;
     border-radius: 23px;
     box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.5);
@@ -159,12 +159,12 @@ form textarea {
 
 #right {
     width: 20%;
-    height: 29%;
+    height: 30%;
     margin-right: 7%;
     position: absolute;
     top: 50%;
     right: 0;
-    margin-top: 43vh;
+    margin-top: 40vh;
     transform: translateY(-50%);
     border: 1px solid black;
     border-radius: 20px;
