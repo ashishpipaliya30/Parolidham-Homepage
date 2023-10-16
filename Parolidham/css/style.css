@@ -103,12 +103,12 @@ button:hover {
 .heading {
     text-align: center;
     font-size: 40px;
-    margin-top: -3  vh;
+    margin-top: -3vh;
     background: linear-gradient(to right, red, rgb(255, 217, 0), red);
 }
 
 .contact {
-    background-color: rgb(236, 172, 54);
+    background-color: rgb(238, 171, 48);
     padding: 20px;
     margin: 0 auto;
     margin-top: -3vh;
