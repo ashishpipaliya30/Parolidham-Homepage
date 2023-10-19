@@ -16,7 +16,7 @@
         <a href="Durga.html">Chandi-Padhs</a>
         <a href="Arti.html">Aarti</a>
         <a href="Video.html">Videos</a>
-        <a href="#contact" id="contact-link">Contact</a>
+        <a href="#contact">Contact</a>
     </div>
 
     <div class="maa">
@@ -56,7 +56,7 @@
         <p>Contact Us</p>
     </div>
 
-    <div class="contact" id="contact">
+    <div class="contact">
         <form>
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
@@ -90,11 +90,6 @@
 
         document.getElementById("view").addEventListener("click", function () {
             window.open("Video.html", "_blank");
-        });
-
-        // for contact-us
-        document.getElementById("contact-link").addEventListener("click", function() {
-            document.getElementById("contact").style.display = "block";
         });
     </script>
 </body>
