@@ -96,14 +96,17 @@ button:hover {
 .maa {
     font-size: 40px;
     text-align: center;
-    margin-top: 123vh;
+    margin-top: 127vh;
     background: linear-gradient(to right, red, rgb(255, 217, 0), red);
 }
 
-.heading {
+h1 {
     text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-left: -8px;
+    margin-right: -8px;
     font-size: 40px;
-    margin-top: -3vh;
     background: linear-gradient(to right, red, rgb(255, 217, 0), red);
 }
 
